@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [always open po kami","available nitro, robux, etc.","bili ka na mwuaahh~"];
+const statusMessages = ["always open po kami","available nitro, robux, etc.","bili ka na mwuaahh~"];
 
 
 let currentIndex = 0;
